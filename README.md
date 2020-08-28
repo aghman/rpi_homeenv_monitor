@@ -2,9 +2,9 @@
 Thoughts and research on a raspberry pi-based home environment monitoring device (or many devices)
 
 ## Research
-[Radios](research/radio.md)
-[Environmental Monitoring](research/environment.md)
-[Plane Tracking](research/plane.md)
+* [Radios](research/radio.md)
+* [Environmental Monitoring](research/environment.md)
+* [Plane Tracking](research/plane.md)
 
 ## Goals/Ideas
 
