@@ -1,6 +1,7 @@
 # rpi_homeenv_monitor
 Thoughts and research on a raspberry pi-based home environment monitoring device (or many devices)
 
-Research
+## Research
+[Radios](research/radio.md)
 
-Goals
+## Goals
