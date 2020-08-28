@@ -3,6 +3,8 @@ Thoughts and research on a raspberry pi-based home environment monitoring device
 
 ## Research
 [Radios](research/radio.md)
+[Environmental Monitoring](research/environment.md)
+[Plane Tracking](research/plane.md)
 
 ## Goals/Ideas
 
