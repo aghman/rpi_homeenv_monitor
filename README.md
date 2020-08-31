@@ -33,3 +33,6 @@ Thoughts and research on a raspberry pi-based home environment monitoring device
 * Temperature, air quality monitor
 * Motion detection (pests)
 * Wifi station counting
+
+## Parts Lists
+[Parts](parts/parts.md)
