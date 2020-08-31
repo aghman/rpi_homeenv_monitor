@@ -1,7 +1,8 @@
 # Parts (and a wish list!)
 
 ## Pi Hardware
-* [Raspberry Pi Zero WH w/pre-soldered header](https://www.pishop.us/product/raspberry-pi-zero-wireless-wh-pre-soldered-header/)
+* [Pi Zero WH w/pre-soldered header](https://www.pishop.us/product/raspberry-pi-zero-wireless-wh-pre-soldered-header/)
+* [3B+](https://www.newark.com/raspberry-pi/rpi3-modbp/sbc-arm-cortex-a53-1gb-sdram/dp/49AC7637)
 ## Sensors
 ## Hats
 * [Breakout Garden](https://shop.pimoroni.com/products/breakout-garden-hat)
