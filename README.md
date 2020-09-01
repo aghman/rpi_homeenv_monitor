@@ -36,3 +36,5 @@ Thoughts and research on a raspberry pi-based home environment monitoring device
 
 ## Parts Lists
 [Parts](parts/parts.md)
+
+[Newark raspberry pi page](https://www.newark.com/buy-raspberry-pi)
