@@ -8,6 +8,7 @@
 ## Machine Learning 
 * [Intel Neural Compute Stick 2](https://www.amazon.com/Intel-Neural-Compute-Stick-2/dp/B07KT6361R)
 * [Nvidia Jetson Nano Developer Kit](https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/ref=pd_bxgy_2/145-3348707-5419768?_encoding=UTF8&pd_rd_i=B084DSDDLT&pd_rd_r=c753ab31-9d6b-4274-ad16-015a10c223f1&pd_rd_w=XuFCx&pd_rd_wg=eXgGV&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=SNRNTZ2RFX0QTQKS3Y8M&psc=1&refRID=SNRNTZ2RFX0QTQKS3Y8M)
+* [Jetson Nano Starter kit](https://www.sparkfun.com/products/16308)
 ## Hats
 * [Breakout Garden](https://shop.pimoroni.com/products/breakout-garden-hat)
 ## Memory Cards, cables, etc.
